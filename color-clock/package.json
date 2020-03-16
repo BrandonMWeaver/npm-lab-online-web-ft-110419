@@ -4,8 +4,8 @@
   "description": "package for color-clock",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo 'Hello World'"
   },
-  "author": "",
+  "author": "Brandon Weaver",
   "license": "ISC"
 }
