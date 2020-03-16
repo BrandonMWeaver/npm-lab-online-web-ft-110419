@@ -4,7 +4,7 @@
   "description": "package for color-clock",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Hello World'"
+    "test": "echo 'Hello World!'"
   },
   "author": "Brandon Weaver",
   "license": "ISC"
